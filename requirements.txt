@@ -1,0 +1,8 @@
+opencv-python
+numpy
+flask
+cmake
+dlib
+setuptools<81
+face-recognition
+face-recognition-models
